@@ -9,7 +9,9 @@
  
  
 (defn -main [& args]
+   (def n (long (.nextInt (Random.))))
    (println (long (.nextInt (Random.))))
+   (println n)
    (println (Date. (long (.nextInt (Random.)))))
 )
 
