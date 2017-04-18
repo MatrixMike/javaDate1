@@ -13,6 +13,7 @@
    (println (long (.nextInt (Random.))))
    (println n)
    (println (Date. (long (.nextInt (Random.)))))
+   (println (Date. n))
 )
 
 
