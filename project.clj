@@ -1,4 +1,4 @@
-(defproject javaImport1 "1.0.2-SNAPSHOT"
+(defproject javaImport1 "1.0.3-SNAPSHOT"
   :description "FIXME: write description"
   :dependencies [[org.clojure/clojure "1.8.0"]]
   
